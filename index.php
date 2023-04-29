@@ -1,3 +1,3 @@
 <?php
 
-echo "Aplicacion en PHP, montada en una App de Azure";
+echo "Aplicacion montada en PHP Azure Web, ya no mas Hola Mundo";
