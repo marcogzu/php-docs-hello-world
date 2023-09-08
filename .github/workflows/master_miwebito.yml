@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'miwebito'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E3DD223545034DF79D51526A9471019A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9226CB7360734B698C7339B6067B85A9 }}
           package: .
